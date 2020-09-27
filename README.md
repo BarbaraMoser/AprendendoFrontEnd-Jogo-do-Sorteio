@@ -1,5 +1,24 @@
-# AprendendoFrontEnd-Jogo-do-Sorteio
-Exercício proposto na aula de Desenvolvimento Web, com Vue.JS. O objetivo era criar uma estrutura simples para entrar com nome e email de pessoas, sortear, editar valores, filtrar, deletar pessoa.
+# sorteio
 
-# Para rodar a aplicação
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
 npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
